@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1d7d4d3a23744df0990ed41368a2d10
+timeCreated: 1520326424
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mikanPrefab: {fileID: 1793376934442880, guid: f2b90425b8d4d4f4fb1116f87b0ece60,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
